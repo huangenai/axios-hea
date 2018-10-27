@@ -1,8 +1,6 @@
 # axios-hea
 Simple encapsulation of Axios,Easy to use in vue
 
-![CSS gzip size](http://img.badgesize.io/elemefe/mint-ui/master/lib/style.css.svg?compression=gzip&label=gzip%20size:%20CSS)
-
 - [Documentation](https://www.cnblogs.com/huangenai/p/9760039.html)
 
 ## Installation
